@@ -1,0 +1,5 @@
+= MathML Test
+:stem:
+
+stem:[3sqrt3/4 * int_0^h  (2r - y/sqrt2)^2 dy]
+
